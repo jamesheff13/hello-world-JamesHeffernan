@@ -1,9 +1,7 @@
 # cmpinf-10-lab6
 ## Lab 6 assignment
 ### Authors:
-Christian Bolinas
-James Heffernan
-Kent Grieco
+Christian Bolinas, James Heffernan, and Kent Grieco
 
 ## What our software does
 
