@@ -35,5 +35,5 @@ If you have any ideas to what we should add to our project to improve it please 
 - To PUSH your addition use: git push
 - It will then prompt you to input your Github username and token
 5) (note: this actually makes additions to the Github)
-6) Refer to the CoC here: 
+6) Refer to the CoC here: https://github.com/christianbolinas/cmpinf-10-lab6/blob/main/CoC.md
 
